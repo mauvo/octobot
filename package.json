@@ -2,9 +2,12 @@
   "name": "Octobot",
   "version": "0.0.0",
   "description": "Octobot",
-  "main": "server.js",
+  "main": "botkitBot.js",
   "author": {
     "name": "david.pond",
     "email": ""
+  },
+  "dependencies": {
+    "botkit": "0.0.11"
   }
 }
