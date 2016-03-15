@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5f8155de-9b3e-4b6e-85d2-d565a2e6f47a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>botkitBot.js</StartupFile>
+    <StartupFile>server.js</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
