@@ -10,5 +10,8 @@
   "dependencies": {
     "botkit": "0.0.11",
     "readable-timespan": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
   }
 }
